@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+}
+
+div {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 55px;
+}
+
+button {
+  border: none;
+  font-size: 25px;
+  height: 100px;
+  width: 100px;
+  line-height: 50px;
+  border-radius: 50%;
+}
+
+.dark {
+  background-color: black;
+  color: #fff;
+}
+
+.light {
+  background-color: white;
+  border: 2px solid black;
+}
+.green {
+  background-color: rgb(194, 223, 89);
+  color: black;
+  border: 2px solid black;
+}
+
+.para {
+  background-color: yellowgreen;
+}
+
+.dark1 {
+  border: 2px solid white;
+}
+
+.Green1 {
+  color: black;
+  border: 2px solid black;
+}
